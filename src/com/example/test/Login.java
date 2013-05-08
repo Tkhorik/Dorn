@@ -13,7 +13,9 @@ public class Login {
   private String baseUrl;
   //private boolean acceptNextAlert = true;
   private StringBuffer verificationErrors = new StringBuffer();
-
+  
+//test commented text for testing
+  
   @Before
       public void setUp() throws Exception {
 	  //driver = WebDriverFactory.getDriver(DesiredCapabilities.firefox());
